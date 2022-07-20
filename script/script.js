@@ -1,4 +1,4 @@
-document.write('aca abajo info maquina');
+document.write('aca abajo info maquina \n');
 
 for(i=0; i<10; i++)
 {
