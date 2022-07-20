@@ -1,0 +1,1 @@
+document.write('aca abajo info maquina')
